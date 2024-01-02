@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm GrassiOS, real name Martin!</h1>
 <h3 align="center">A passionate frontend developer from 🇲🇽!! </h3>
 
-<p align="left"> <a href="https://twitter.com/grassios" target="blank"><img src="https://img.shields.io/twitter/follow/grassios?logo=twitter&style=for-the-badge" alt="grassios" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ograssios" target="blank"><img src="https://img.shields.io/twitter/follow/grassios?logo=twitter&style=for-the-badge" alt="grassios" /></a> </p>
 
 - 🔭 I’m currently working on **BodyBuddy [Fitness AI App]**
 
