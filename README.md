@@ -43,14 +43,14 @@ Here are a few highlights from my recent work:
 - [Project 3](https://github.com/yourusername/project3) - Yet another awesome thing I built! 💡
 -->
 ### Let's Connect!
-- [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/yourtwitter)](https://twitter.com/yourtwitter)
-- [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youremail)](mailto:youremail)
+- [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/yourtwitter)](https://twitter.com/grassy_dev)
+- [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youremail)](mailto:grassios@gmail.com)
 
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GrassiOS&show_icons=true&hide_border=true&theme=radical" />
 </p>
 ---
 
-⭐️ From [Your Name](https://github.com/yourusername)
+⭐️ From [Grassy](https://github.com/GrassiOS)
